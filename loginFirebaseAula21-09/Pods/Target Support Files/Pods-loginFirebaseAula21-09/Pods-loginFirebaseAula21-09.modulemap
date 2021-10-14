@@ -1,0 +1,6 @@
+framework module Pods_loginFirebaseAula21_09 {
+  umbrella header "Pods-loginFirebaseAula21-09-umbrella.h"
+
+  export *
+  module * { export * }
+}

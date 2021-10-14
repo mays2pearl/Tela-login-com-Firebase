@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_loginFirebaseAula21_09_loginFirebaseAula21_09UITests : NSObject
+@end
+@implementation PodsDummy_Pods_loginFirebaseAula21_09_loginFirebaseAula21_09UITests
+@end
